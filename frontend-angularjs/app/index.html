@@ -14,7 +14,21 @@
     </div>
     <div class="body-container">
         <div ng-repeat="hotel in hotelList">
-            <label for="">{{hotel}}</label>
+            <div class="row">
+                <div class="col-xs-4">
+                    <img src="{{hotel.image}}" alt="{{hotel.name}}" width="250" height="190">
+                </div>
+                <div class="col-xs-4">
+                    <h2>
+                        {{hotel.name}}
+                    </h2>
+                </div>
+                <div class="col-xs-4">
+                    <h5>
+                        {{hotel.price}}
+                    </h5>
+                </div>
+            </div>
         </div>
     </div>
     <script src="../node_modules/angular/angular.min.js"></script>

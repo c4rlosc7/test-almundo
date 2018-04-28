@@ -6,7 +6,7 @@ var hotels  = [
       "name": "Hotel Stefanos",
       "stars": 3,
       "price": 994.18,
-      "image": "4900059_30_b.jpg",
+      "image": "../assets/images/hotels/4900059_30_b.jpg",
       "amenities": [
         "safety-box",
         "nightclub",
@@ -20,7 +20,7 @@ var hotels  = [
       "name": "Hotel Santa Cruz",
       "stars": 3,
       "price": 1267.57,
-      "image": "6623490_6_b.jpg",
+      "image": "../assets/images/hotels/6623490_6_b.jpg",
       "amenities": [
         "nightclub",
         "business-center",
@@ -34,7 +34,7 @@ var hotels  = [
       "name": "NM Lima Hotel",
       "stars": 4,
       "price": 1445.5,
-      "image": "981018_26_b.jpg",
+      "image": "../assets/images/hotels/981018_26_b.jpg",
       "amenities": [
         "business-center",
         "nightclub",
@@ -48,7 +48,7 @@ var hotels  = [
       "name": "El Golf Hotel Boutique",
       "stars": 4,
       "price": 1513.45,
-      "image": "1191401_110_b.jpg",
+      "image": "../assets/images/hotels/1191401_110_b.jpg",
       "amenities": [
         "safety-box",
         "bathrobes",
@@ -62,7 +62,7 @@ var hotels  = [
       "name": "Casa Andina Select Miraflores",
       "stars": 4,
       "price": 1545.46,
-      "image": "2a5bb415_b.jpg",
+      "image": "../assets/images/hotels/2a5bb415_b.jpg",
       "amenities": [
         "coffe-maker",
         "safety-box",
@@ -76,7 +76,7 @@ var hotels  = [
       "name": "Radisson Hotel Decapolis Miraflores",
       "stars": 4,
       "price": 2314.61,
-      "image": "46512_29_b.jpg",
+      "image": "../assets/images/hotels/46512_29_b.jpg",
       "amenities": [
         "bathtub",
         "separate-bredroom",
@@ -90,7 +90,7 @@ var hotels  = [
       "name": "Antigua Miraflores Hotel",
       "stars": 3,
       "price": 1862.16,
-      "image": "480835_73_b.jpg",
+      "image": "../assets/images/hotels/480835_73_b.jpg",
       "amenities": [
         "restaurant",
         "separate-bredroom",
@@ -104,7 +104,7 @@ var hotels  = [
       "name": "Casa Falleri Boutique Hotel",
       "stars": 3,
       "price": 1634.03,
-      "image": "11908954_150_b.jpg",
+      "image": "../assets/images/hotels/11908954_150_b.jpg",
       "amenities": [
         "nightclub",
         "garden",
@@ -118,7 +118,7 @@ var hotels  = [
       "name": "Habitat Hotel",
       "stars": 3,
       "price": 1061.79,
-      "image": "12808943_13_b.jpg",
+      "image": "../assets/images/hotels/12808943_13_b.jpg",
       "amenities": [
         "beach-pool-facilities",
         "deep-soaking-bathtub",
@@ -132,7 +132,7 @@ var hotels  = [
       "name": "Hotel San Blas",
       "stars": 3,
       "price": 1106.56,
-      "image": "4417477_17_b.jpg",
+      "image": "../assets/images/hotels/4417477_17_b.jpg",
       "amenities": [
         "coffe-maker",
         "deep-soaking-bathtub",
@@ -146,7 +146,7 @@ var hotels  = [
       "name": "Palmetto Hotel Business San Borja",
       "stars": 3,
       "price": 1105.87,
-      "image": "4626475_1_b.jpg",
+      "image": "../assets/images/hotels/4626475_1_b.jpg",
       "amenities": [
         "safety-box",
         "coffe-maker",
@@ -160,7 +160,7 @@ var hotels  = [
       "name": "Foresta Hotel Lima",
       "stars": 4,
       "price": 1941.99,
-      "image": "200684_222_b.jpg",
+      "image": "../assets/images/hotels/200684_222_b.jpg",
       "amenities": [
         "bathtub",
         "kitchen-facilities",
@@ -174,7 +174,7 @@ var hotels  = [
       "name": "Royal Inca Hotel",
       "stars": 2,
       "price": 683.5,
-      "image": "6900423_6_b.jpg",
+      "image": "../assets/images/hotels/6900423_6_b.jpg",
       "amenities": [
         "newspaper",
         "coffe-maker",
@@ -188,7 +188,7 @@ var hotels  = [
       "name": "Bayview Hotel",
       "stars": 3,
       "price": 1043.88,
-      "image": "1231695_139_b.jpg",
+      "image": "../assets/images/hotels/1231695_139_b.jpg",
       "amenities": [
         "bathtub",
         "deep-soaking-bathtub",
@@ -202,7 +202,7 @@ var hotels  = [
       "name": "Casa Andina Premium Miraflores",
       "stars": 4,
       "price": 1887.2,
-      "image": "2039609_120_b.jpg",
+      "image": "../assets/images/hotels/2039609_120_b.jpg",
       "amenities": [
         "children-club",
         "newspaper",
@@ -216,7 +216,7 @@ var hotels  = [
       "name": "New Corpac Hotel",
       "stars": 3,
       "price": 886.12,
-      "image": "1876197_31_b.jpg",
+      "image": "../assets/images/hotels/1876197_31_b.jpg",
       "amenities": [
         "children-club",
         "restaurant",
@@ -230,7 +230,7 @@ var hotels  = [
       "name": "Qorianka Hotel",
       "stars": 2,
       "price": 1024.91,
-      "image": "9320547_26_b.jpg",
+      "image": "../assets/images/hotels/9320547_26_b.jpg",
       "amenities": [
         "children-club",
         "garden",
@@ -244,7 +244,7 @@ var hotels  = [
       "name": "Casa Suyay",
       "stars": 3,
       "price": 1695.37,
-      "image": "8962073_23_b.jpg",
+      "image": "../assets/images/hotels/8962073_23_b.jpg",
       "amenities": [
         "kitchen-facilities",
         "restaurant",
@@ -258,7 +258,7 @@ var hotels  = [
       "name": "Casa Bella Miraflores",
       "stars": 3,
       "price": 842.54,
-      "image": "4479382_65_b.jpg",
+      "image": "../assets/images/hotels/4479382_65_b.jpg",
       "amenities": [
         "garden",
         "kitchen-facilities",
@@ -272,7 +272,7 @@ var hotels  = [
       "name": "Tierra Viva Miraflores Larco",
       "stars": 3,
       "price": 1431.47,
-      "image": "6153044_28_b.jpg",
+      "image": "../assets/images/hotels/6153044_28_b.jpg",
       "amenities": [
         "beach-pool-facilities",
         "newspaper",
@@ -286,7 +286,7 @@ var hotels  = [
       "name": "Atton San Isidro",
       "stars": 4,
       "price": 1943.69,
-      "image": "4357289_55_b.jpg",
+      "image": "../assets/images/hotels/4357289_55_b.jpg",
       "amenities": [
         "newspaper",
         "safety-box",
@@ -300,7 +300,7 @@ var hotels  = [
       "name": "Urbano Apartment Miraflores Pardo",
       "stars": 3,
       "price": 1258.4,
-      "image": "10968139_27_b.jpg",
+      "image": "../assets/images/hotels/10968139_27_b.jpg",
       "amenities": [
         "deep-soaking-bathtub",
         "bathtub",
@@ -314,7 +314,7 @@ var hotels  = [
       "name": "Los Tallanes Hotel & Suites",
       "stars": 3,
       "price": 2014.68,
-      "image": "12287657_13_b.jpg",
+      "image": "../assets/images/hotels/12287657_13_b.jpg",
       "amenities": [
         "nightclub",
         "beach",
@@ -328,7 +328,7 @@ var hotels  = [
       "name": "Hotel Ferre Miraflores",
       "stars": 3,
       "price": 1183.19,
-      "image": "3045476_5_b.jpg",
+      "image": "../assets/images/hotels/3045476_5_b.jpg",
       "amenities": [
         "safety-box",
         "newspaper",
@@ -342,7 +342,7 @@ var hotels  = [
       "name": "Arawi Lima Miraflores",
       "stars": 4,
       "price": 2099.1,
-      "image": "5429945_8_b.jpg",
+      "image": "../assets/images/hotels/5429945_8_b.jpg",
       "amenities": [
         "fitness-center",
         "beach",
@@ -356,7 +356,7 @@ var hotels  = [
       "name": "Peru Star Boutique Apartments Hotel",
       "stars": 4,
       "price": 1093.37,
-      "image": "3124310_1_b.jpg",
+      "image": "../assets/images/hotels/3124310_1_b.jpg",
       "amenities": [
         "bathtub",
         "restaurant",
@@ -370,7 +370,7 @@ var hotels  = [
       "name": "Del Pilar Miraflores Hotel",
       "stars": 3,
       "price": 1713.42,
-      "image": "412713_46_b.jpg",
+      "image": "../assets/images/hotels/412713_46_b.jpg",
       "amenities": [
         "newspaper",
         "coffe-maker",
@@ -384,7 +384,7 @@ var hotels  = [
       "name": "1900 Hostel",
       "stars": 1,
       "price": 596.7,
-      "image": "4850335_10_b.jpg",
+      "image": "../assets/images/hotels/4850335_10_b.jpg",
       "amenities": [
         "coffe-maker",
         "garden",
@@ -398,7 +398,7 @@ var hotels  = [
       "name": "Machu Picchu Suites",
       "stars": 3,
       "price": 794.74,
-      "image": "3688061_52_b.jpg",
+      "image": "../assets/images/hotels/3688061_52_b.jpg",
       "amenities": [
         "beach",
         "kitchen-facilities",
@@ -412,7 +412,7 @@ var hotels  = [
       "name": "Hotel Señorial",
       "stars": 3,
       "price": 1193.14,
-      "image": "7700456_3_b.jpg",
+      "image": "../assets/images/hotels/7700456_3_b.jpg",
       "amenities": [
         "business-center",
         "beach",
@@ -426,7 +426,7 @@ var hotels  = [
       "name": "Las Palmas",
       "stars": 3,
       "price": 1118.45,
-      "image": "4618948_40_b.jpg",
+      "image": "../assets/images/hotels/4618948_40_b.jpg",
       "amenities": [
         "beach",
         "deep-soaking-bathtub",
@@ -440,7 +440,7 @@ var hotels  = [
       "name": "Miraflores Lodge",
       "stars": 3,
       "price": 1090.91,
-      "image": "3612838_12_b.jpg",
+      "image": "../assets/images/hotels/3612838_12_b.jpg",
       "amenities": [
         "coffe-maker",
         "restaurant",
@@ -454,7 +454,7 @@ var hotels  = [
       "name": "Casa Wayra Bed & Breakfast Miraflores",
       "stars": 3,
       "price": 1175.85,
-      "image": "3688064_92_b.jpg",
+      "image": "../assets/images/hotels/3688064_92_b.jpg",
       "amenities": [
         "newspaper",
         "beach-pool-facilities",
@@ -468,7 +468,7 @@ var hotels  = [
       "name": "HosteLima",
       "stars": 2,
       "price": 297.65,
-      "image": "4982472_16_b.jpg",
+      "image": "../assets/images/hotels/4982472_16_b.jpg",
       "amenities": [
         "business-center",
         "safety-box",
@@ -482,7 +482,7 @@ var hotels  = [
       "name": "3B Barranco's Chic and Basic B&B",
       "stars": 3,
       "price": 1488.42,
-      "image": "9ae3980d_b.jpg",
+      "image": "../assets/images/hotels/9ae3980d_b.jpg",
       "amenities": [
         "restaurant",
         "children-club",
@@ -496,7 +496,7 @@ var hotels  = [
       "name": "Hotel El Ducado",
       "stars": 3,
       "price": 1624.1,
-      "image": "1688562_53_b.jpg",
+      "image": "../assets/images/hotels/1688562_53_b.jpg",
       "amenities": [
         "kitchen-facilities",
         "garden",
@@ -510,7 +510,7 @@ var hotels  = [
       "name": "LYNIK La Casa de Blanca",
       "stars": 2,
       "price": 676.59,
-      "image": "4846837_5_b.jpg",
+      "image": "../assets/images/hotels/4846837_5_b.jpg",
       "amenities": [
         "deep-soaking-bathtub",
         "beach-pool-facilities",
@@ -524,7 +524,7 @@ var hotels  = [
       "name": "Country Club Lima Hotel",
       "stars": 5,
       "price": 3109.07,
-      "image": "115596_172_b.jpg",
+      "image": "../assets/images/hotels/115596_172_b.jpg",
       "amenities": [
         "restaurant",
         "garden",
@@ -538,7 +538,7 @@ var hotels  = [
       "name": "Hotel Libertador Lima",
       "stars": 4,
       "price": 1708.74,
-      "image": "519318_82_b.jpg",
+      "image": "../assets/images/hotels/519318_82_b.jpg",
       "amenities": [
         "bathrobes",
         "beach-pool-facilities",
@@ -552,7 +552,7 @@ var hotels  = [
       "name": "Los Girasoles",
       "stars": 3,
       "price": 1177.32,
-      "image": "3474909_52_b.jpg",
+      "image": "../assets/images/hotels/3474909_52_b.jpg",
       "amenities": [
         "kitchen-facilities",
         "bathtub",
@@ -566,7 +566,7 @@ var hotels  = [
       "name": "Melia Lima",
       "stars": 4,
       "price": 2099.3,
-      "image": "484066_158_b.jpg",
+      "image": "../assets/images/hotels/484066_158_b.jpg",
       "amenities": [
         "safety-box",
         "garden",
@@ -580,7 +580,7 @@ var hotels  = [
       "name": "Casa Aika",
       "stars": 3,
       "price": 757.58,
-      "image": "5987363_77_b.jpg",
+      "image": "../assets/images/hotels/5987363_77_b.jpg",
       "amenities": [
         "newspaper",
         "business-center",
@@ -594,7 +594,7 @@ var hotels  = [
       "name": "Kingdom Hotel",
       "stars": 3,
       "price": 1754.36,
-      "image": "9365800_92_b.jpg",
+      "image": "../assets/images/hotels/9365800_92_b.jpg",
       "amenities": [
         "children-club",
         "bathtub",
@@ -608,7 +608,7 @@ var hotels  = [
       "name": "Hotel Panamericano",
       "stars": 3,
       "price": 798.53,
-      "image": "11920422_40_b.jpg",
+      "image": "../assets/images/hotels/11920422_40_b.jpg",
       "amenities": [
         "bathtub",
         "children-club",
@@ -622,7 +622,7 @@ var hotels  = [
       "name": "Condor's House - Hostel",
       "stars": 2,
       "price": 301.86,
-      "image": "5030807_9_b.jpg",
+      "image": "../assets/images/hotels/5030807_9_b.jpg",
       "amenities": [
         "newspaper",
         "separate-bredroom",
@@ -636,7 +636,7 @@ var hotels  = [
       "name": "House Inn Backpacker",
       "stars": 2,
       "price": 280.8,
-      "image": "4982482_7_b.jpg",
+      "image": "../assets/images/hotels/4982482_7_b.jpg",
       "amenities": [
         "safety-box",
         "beach-pool-facilities",
@@ -650,7 +650,7 @@ var hotels  = [
       "name": "La Casa Nostra Hostel",
       "stars": 2,
       "price": 1228.5,
-      "image": "2537805_1_b.jpg",
+      "image": "../assets/images/hotels/2537805_1_b.jpg",
       "amenities": [
         "kitchen-facilities",
         "fitness-center",
@@ -664,7 +664,7 @@ var hotels  = [
       "name": "Hotel Kamana",
       "stars": 3,
       "price": 846.93,
-      "image": "4478078_39_b.jpg",
+      "image": "../assets/images/hotels/4478078_39_b.jpg",
       "amenities": [
         "bathtub",
         "fitness-center",
@@ -678,7 +678,7 @@ var hotels  = [
       "name": "Embajadores Hotel",
       "stars": 3,
       "price": 1031.9,
-      "image": "386779_53_b.jpg",
+      "image": "../assets/images/hotels/386779_53_b.jpg",
       "amenities": [
         "garden",
         "nightclub",
@@ -692,7 +692,7 @@ var hotels  = [
       "name": "Sm Hotel And Business",
       "stars": 3,
       "price": 969.64,
-      "image": "4688439_88_b.jpg",
+      "image": "../assets/images/hotels/4688439_88_b.jpg",
       "amenities": [
         "children-club",
         "separate-bredroom",
@@ -706,7 +706,7 @@ var hotels  = [
       "name": "Fiesta Hotel & Casino",
       "stars": 4,
       "price": 2927.68,
-      "image": "1777231_85_b.jpg",
+      "image": "../assets/images/hotels/1777231_85_b.jpg",
       "amenities": [
         "deep-soaking-bathtub",
         "fitness-center",
@@ -720,7 +720,7 @@ var hotels  = [
       "name": "San Isidro Inn",
       "stars": 3,
       "price": 1053,
-      "image": "3952922_27_b.jpg",
+      "image": "../assets/images/hotels/3952922_27_b.jpg",
       "amenities": [
         "children-club",
         "bathtub",
@@ -734,7 +734,7 @@ var hotels  = [
       "name": "Posada Peregrinus",
       "stars": 2,
       "price": 614.25,
-      "image": "4546549_9_b.jpg",
+      "image": "../assets/images/hotels/4546549_9_b.jpg",
       "amenities": [
         "nightclub",
         "kitchen-facilities",
@@ -748,7 +748,7 @@ var hotels  = [
       "name": "Courtyard Lima Miraflores",
       "stars": 4,
       "price": 2240.34,
-      "image": "9866569_13_b.jpg",
+      "image": "../assets/images/hotels/9866569_13_b.jpg",
       "amenities": [
         "separate-bredroom",
         "safety-box",
@@ -762,7 +762,7 @@ var hotels  = [
       "name": "Hotel Estelar Miraflores",
       "stars": 4,
       "price": 1927.17,
-      "image": "b3e281b1_b.jpg",
+      "image": "../assets/images/hotels/b3e281b1_b.jpg",
       "amenities": [
         "nightclub",
         "safety-box",
@@ -776,7 +776,7 @@ var hotels  = [
       "name": "Swissôtel Lima",
       "stars": 5,
       "price": 3397.94,
-      "image": "d44c63f1_b.jpg",
+      "image": "../assets/images/hotels/d44c63f1_b.jpg",
       "amenities": [
         "kitchen-facilities",
         "coffe-maker",
@@ -790,7 +790,7 @@ var hotels  = [
       "name": "Luxury Hotel Inkari",
       "stars": 4,
       "price": 2049.84,
-      "image": "9438646_27_b.jpg",
+      "image": "../assets/images/hotels/9438646_27_b.jpg",
       "amenities": [
         "bathtub",
         "kitchen-facilities",
@@ -804,7 +804,7 @@ var hotels  = [
       "name": "La Paz Apart Hotel",
       "stars": 3,
       "price": 2535.14,
-      "image": "4099852_34_b.jpg",
+      "image": "../assets/images/hotels/4099852_34_b.jpg",
       "amenities": [
         "bathrobes",
         "newspaper",
@@ -818,7 +818,7 @@ var hotels  = [
       "name": "Basadre Suites Boutique Hotel",
       "stars": 3,
       "price": 997.16,
-      "image": "1110876_60_b.jpg",
+      "image": "../assets/images/hotels/1110876_60_b.jpg",
       "amenities": [
         "bathrobes",
         "deep-soaking-bathtub",
@@ -832,7 +832,7 @@ var hotels  = [
       "name": "Hotel Melodia",
       "stars": 3,
       "price": 1053,
-      "image": "7864635_1_b.jpg",
+      "image": "../assets/images/hotels/7864635_1_b.jpg",
       "amenities": [
         "garden",
         "bathtub",
@@ -846,7 +846,7 @@ var hotels  = [
       "name": "Hotel Plaza Mayor",
       "stars": 2,
       "price": 469.94,
-      "image": "9866986_18_b.jpg",
+      "image": "../assets/images/hotels/9866986_18_b.jpg",
       "amenities": [
         "fitness-center",
         "garden",
@@ -860,7 +860,7 @@ var hotels  = [
       "name": "Hotel Nobility",
       "stars": 3,
       "price": 1547.88,
-      "image": "6214511_57_b.jpg",
+      "image": "../assets/images/hotels/6214511_57_b.jpg",
       "amenities": [
         "kitchen-facilities",
         "garden",
@@ -874,7 +874,7 @@ var hotels  = [
       "name": "Casa Andina Standard Miraflores Centro",
       "stars": 3,
       "price": 1218.06,
-      "image": "85248126_b.jpg",
+      "image": "../assets/images/hotels/85248126_b.jpg",
       "amenities": [
         "fitness-center",
         "children-club",
@@ -888,7 +888,7 @@ var hotels  = [
       "name": "Wyndham Costa Del Sol Lima City",
       "stars": 4,
       "price": 1749.25,
-      "image": "10210122_194_b.jpg",
+      "image": "../assets/images/hotels/10210122_194_b.jpg",
       "amenities": [
         "children-club",
         "beach",
@@ -902,7 +902,7 @@ var hotels  = [
       "name": "Sonesta Hotel El Olivar Lima",
       "stars": 4,
       "price": 2339.9,
-      "image": "525844_90_b.jpg",
+      "image": "../assets/images/hotels/525844_90_b.jpg",
       "amenities": [
         "restaurant",
         "coffe-maker",
@@ -916,7 +916,7 @@ var hotels  = [
       "name": "Thunderbird Hotels J.Pardo",
       "stars": 3,
       "price": 2237.4,
-      "image": "1774520_182_b.jpg",
+      "image": "../assets/images/hotels/1774520_182_b.jpg",
       "amenities": [
         "bathrobes",
         "coffe-maker",
@@ -930,7 +930,7 @@ var hotels  = [
       "name": "La Hacienda Hotel Miraflores",
       "stars": 3,
       "price": 2071.2,
-      "image": "430037_31_b.jpg",
+      "image": "../assets/images/hotels/430037_31_b.jpg",
       "amenities": [
         "newspaper",
         "beach-pool-facilities",
@@ -944,7 +944,7 @@ var hotels  = [
       "name": "El Angolo Lima",
       "stars": 3,
       "price": 1864.08,
-      "image": "5981696_40_b.jpg",
+      "image": "../assets/images/hotels/5981696_40_b.jpg",
       "amenities": [
         "kitchen-facilities",
         "bathrobes",
@@ -958,7 +958,7 @@ var hotels  = [
       "name": "Hostal Porta",
       "stars": 3,
       "price": 629.8,
-      "image": "1688561_29_b.jpg",
+      "image": "../assets/images/hotels/1688561_29_b.jpg",
       "amenities": [
         "children-club",
         "separate-bredroom",
@@ -972,7 +972,7 @@ var hotels  = [
       "name": "Hotel Novotel Lima",
       "stars": 4,
       "price": 2091.07,
-      "image": "2803127_64_b.jpg",
+      "image": "../assets/images/hotels/2803127_64_b.jpg",
       "amenities": [
         "beach",
         "kitchen-facilities",
@@ -986,7 +986,7 @@ var hotels  = [
       "name": "ibis Larco Miraflores",
       "stars": 3,
       "price": 1156.91,
-      "image": "917bd6d1_b.jpg",
+      "image": "../assets/images/hotels/917bd6d1_b.jpg",
       "amenities": [
         "safety-box",
         "deep-soaking-bathtub",
@@ -1000,7 +1000,7 @@ var hotels  = [
       "name": "Miraflores Suites Centro",
       "stars": 3,
       "price": 841.45,
-      "image": "3334784_86_b.jpg",
+      "image": "../assets/images/hotels/3334784_86_b.jpg",
       "amenities": [
         "beach",
         "kitchen-facilities",
@@ -1014,7 +1014,7 @@ var hotels  = [
       "name": "Radisson Hotel San Isidro",
       "stars": 4,
       "price": 1761.4,
-      "image": "1580314_67_b.jpg",
+      "image": "../assets/images/hotels/1580314_67_b.jpg",
       "amenities": [
         "restaurant",
         "children-club",
@@ -1028,7 +1028,7 @@ var hotels  = [
       "name": "Hotel Boutique Huaca Wasi",
       "stars": 3,
       "price": 1715.28,
-      "image": "5379215_11_b.jpg",
+      "image": "../assets/images/hotels/5379215_11_b.jpg",
       "amenities": [
         "fitness-center",
         "nightclub",
@@ -1042,7 +1042,7 @@ var hotels  = [
       "name": "Hotel Inka Path",
       "stars": 2,
       "price": 1088.1,
-      "image": "9649999_27_b.jpg",
+      "image": "../assets/images/hotels/9649999_27_b.jpg",
       "amenities": [
         "fitness-center",
         "deep-soaking-bathtub",
@@ -1056,7 +1056,7 @@ var hotels  = [
       "name": "Plaza del Bosque Hotel",
       "stars": 4,
       "price": 1889.37,
-      "image": "48784_97_b.jpg",
+      "image": "../assets/images/hotels/48784_97_b.jpg",
       "amenities": [
         "deep-soaking-bathtub",
         "fitness-center",
@@ -1070,7 +1070,7 @@ var hotels  = [
       "name": "Suites Antique Apart Hotel",
       "stars": 3,
       "price": 1594.88,
-      "image": "11820110_10_b.jpg",
+      "image": "../assets/images/hotels/11820110_10_b.jpg",
       "amenities": [
         "restaurant",
         "coffe-maker",
@@ -1084,7 +1084,7 @@ var hotels  = [
       "name": "Royal Park Hotel",
       "stars": 4,
       "price": 3141.14,
-      "image": "583479_86_b.jpg",
+      "image": "../assets/images/hotels/583479_86_b.jpg",
       "amenities": [
         "safety-box",
         "deep-soaking-bathtub",
@@ -1098,7 +1098,7 @@ var hotels  = [
       "name": "El Faro Inn",
       "stars": 3,
       "price": 855.22,
-      "image": "9817258_55_b.jpg",
+      "image": "../assets/images/hotels/9817258_55_b.jpg",
       "amenities": [
         "coffe-maker",
         "beach",
@@ -1112,7 +1112,7 @@ var hotels  = [
       "name": "Hotel San Agustin Riviera",
       "stars": 3,
       "price": 798.89,
-      "image": "1354077_84_b.jpg",
+      "image": "../assets/images/hotels/1354077_84_b.jpg",
       "amenities": [
         "garden",
         "nightclub",
@@ -1126,7 +1126,7 @@ var hotels  = [
       "name": "Palmetto San Miguel",
       "stars": 3,
       "price": 1057.15,
-      "image": "12627687_102_b.jpg",
+      "image": "../assets/images/hotels/12627687_102_b.jpg",
       "amenities": [
         "newspaper",
         "restaurant",
@@ -1140,7 +1140,7 @@ var hotels  = [
       "name": "BTH",
       "stars": 4,
       "price": 1822.71,
-      "image": "897079_215_b.jpg",
+      "image": "../assets/images/hotels/897079_215_b.jpg",
       "amenities": [
         "restaurant",
         "bathtub",
@@ -1154,7 +1154,7 @@ var hotels  = [
       "name": "Thunderbird Hotels Carrera",
       "stars": 3,
       "price": 1559.54,
-      "image": "1773941_61_b.jpg",
+      "image": "../assets/images/hotels/1773941_61_b.jpg",
       "amenities": [
         "kitchen-facilities",
         "nightclub",
@@ -1168,7 +1168,7 @@ var hotels  = [
       "name": "qp Hotels Lima",
       "stars": 3,
       "price": 1318.17,
-      "image": "1876458_102_b.jpg",
+      "image": "../assets/images/hotels/1876458_102_b.jpg",
       "amenities": [
         "separate-bredroom",
         "newspaper",
@@ -1182,7 +1182,7 @@ var hotels  = [
       "name": "Sol de Oro Hotel & Suites",
       "stars": 4,
       "price": 1722.41,
-      "image": "63569_150_b.jpg",
+      "image": "../assets/images/hotels/63569_150_b.jpg",
       "amenities": [
         "fitness-center",
         "garden",
@@ -1196,7 +1196,7 @@ var hotels  = [
       "name": "Hotel Park Suites",
       "stars": 2,
       "price": 1447.88,
-      "image": "00650d24_b.jpg",
+      "image": "../assets/images/hotels/00650d24_b.jpg",
       "amenities": [
         "children-club",
         "beach-pool-facilities",
@@ -1210,7 +1210,7 @@ var hotels  = [
       "name": "Inkawasi Hostel Boutique",
       "stars": 2,
       "price": 796.13,
-      "image": "4241228_30_b.jpg",
+      "image": "../assets/images/hotels/4241228_30_b.jpg",
       "amenities": [
         "restaurant",
         "fitness-center",
@@ -1224,7 +1224,7 @@ var hotels  = [
       "name": "Roosevelt Hotel & Suites",
       "stars": 3,
       "price": 1710.01,
-      "image": "81959_63_b.jpg",
+      "image": "../assets/images/hotels/81959_63_b.jpg",
       "amenities": [
         "separate-bredroom",
         "nightclub",
@@ -1238,7 +1238,7 @@ var hotels  = [
       "name": "The Westin Lima Hotel & Convention Center",
       "stars": 5,
       "price": 3268.52,
-      "image": "4359018_144_b.jpg",
+      "image": "../assets/images/hotels/4359018_144_b.jpg",
       "amenities": [
         "safety-box",
         "kitchen-facilities",
@@ -1252,7 +1252,7 @@ var hotels  = [
       "name": "Delfines Hotel & Convention Center",
       "stars": 4,
       "price": 3841.81,
-      "image": "4d72efed_b.jpg",
+      "image": "../assets/images/hotels/4d72efed_b.jpg",
       "amenities": [
         "separate-bredroom",
         "business-center",
@@ -1266,7 +1266,7 @@ var hotels  = [
       "name": "Belmond Miraflores Park",
       "stars": 5,
       "price": 9355.52,
-      "image": "530284_167_b.jpg",
+      "image": "../assets/images/hotels/530284_167_b.jpg",
       "amenities": [
         "coffe-maker",
         "separate-bredroom",
@@ -1280,7 +1280,7 @@ var hotels  = [
       "name": "Atelier Hotel",
       "stars": 3,
       "price": 1512.97,
-      "image": "5405282_15_b.jpg",
+      "image": "../assets/images/hotels/5405282_15_b.jpg",
       "amenities": [
         "newspaper",
         "business-center",
@@ -1294,7 +1294,7 @@ var hotels  = [
       "name": "Jose Antonio Lima",
       "stars": 4,
       "price": 1914.87,
-      "image": "164283a_hb_a_001.jpg",
+      "image": "../assets/images/hotels/164283a_hb_a_001.jpg",
       "amenities": [
         "garden",
         "business-center",
@@ -1308,7 +1308,7 @@ var hotels  = [
       "name": "El Condado Miraflores Hotel & Suites",
       "stars": 3,
       "price": 1374.56,
-      "image": "9291429_9_b.jpg",
+      "image": "../assets/images/hotels/9291429_9_b.jpg",
       "amenities": [
         "coffe-maker",
         "restaurant",
@@ -1322,7 +1322,7 @@ var hotels  = [
       "name": "Suites del Bosque Hotel",
       "stars": 3,
       "price": 1647.73,
-      "image": "1574025_73_b.jpg",
+      "image": "../assets/images/hotels/1574025_73_b.jpg",
       "amenities": [
         "beach-pool-facilities",
         "newspaper",
@@ -1336,7 +1336,7 @@ var hotels  = [
       "name": "Leon de Oro Inn & Suites",
       "stars": 3,
       "price": 1128,
-      "image": "6975518_43_b.jpg",
+      "image": "../assets/images/hotels/6975518_43_b.jpg",
       "amenities": [
         "nightclub",
         "business-center",
@@ -1350,7 +1350,7 @@ var hotels  = [
       "name": "Sonesta Posadas del Inca Miraflores - Lima",
       "stars": 3,
       "price": 1485.63,
-      "image": "44e00399_b.jpg",
+      "image": "../assets/images/hotels/44e00399_b.jpg",
       "amenities": [
         "garden",
         "restaurant",
@@ -1364,7 +1364,7 @@ var hotels  = [
       "name": "B&B Tradiciones",
       "stars": 3,
       "price": 801.45,
-      "image": "893882_7_b.jpg",
+      "image": "../assets/images/hotels/893882_7_b.jpg",
       "amenities": [
         "newspaper",
         "coffe-maker",
@@ -1378,7 +1378,7 @@ var hotels  = [
       "name": "Maria Angola Hotel & Centro de Convenciones",
       "stars": 3,
       "price": 1131.76,
-      "image": "23645_15_b.jpg",
+      "image": "../assets/images/hotels/23645_15_b.jpg",
       "amenities": [
         "garden",
         "restaurant",
@@ -1392,7 +1392,7 @@ var hotels  = [
       "name": "Hotel Continental",
       "stars": 3,
       "price": 774.53,
-      "image": "802720_60_b.jpg",
+      "image": "../assets/images/hotels/802720_60_b.jpg",
       "amenities": [
         "deep-soaking-bathtub",
         "coffe-maker",
