@@ -4,5 +4,51 @@
 }
 
 .body-container{
-    margin: 5px;
+    background-color: #ECEFF1;
+    padding: 0 25px;
+}
+
+.style-field{
+    background-color: white;
+    margin: 15px;
+}
+
+.padding-10{
+    padding: 10px;
+}
+
+.padding-left-10{
+    padding-left: 10px;
+}
+
+.style-hotels{
+    margin: 10px;
+    padding: 5px;
+    background-color: white;    
+}
+
+.icon{
+    width: 18px;
+    height: 18px;
+}
+
+.show-hotel{
+    background-color: #283593;
+    color: white;
+    padding: 5px 30px;
+    border-radius: 4px;    
+}
+
+.price{
+    color: #E65100;
+    font-size: 20px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.price-room{
+    padding: 0 30px;
+    font-size: 10px;    
 }

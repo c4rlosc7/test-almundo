@@ -2,7 +2,7 @@
 test almundo
 
 # Frontend AngularJS
-create to folder (frontend-angularjs)
+create to folder "frontend-angularjs"
 > mkdir frontend-angularjs
 > cd frontend-angularjs
 into folder typing next command

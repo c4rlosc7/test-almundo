@@ -8,11 +8,11 @@ var hotels  = [
       "price": 994.18,
       "image": "../assets/images/hotels/4900059_30_b.jpg",
       "amenities": [
-        "safety-box",
-        "nightclub",
-        "deep-soaking-bathtub",
-        "beach",
-        "business-center"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/beach.svg",
+        "../assets/icons/amenities/business-center.svg"
       ]
     },
     {
@@ -22,11 +22,11 @@ var hotels  = [
       "price": 1267.57,
       "image": "../assets/images/hotels/6623490_6_b.jpg",
       "amenities": [
-        "nightclub",
-        "business-center",
-        "bathtub",
-        "newspaper",
-        "restaurant"
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/bathtub.svg",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/restaurant.svg"
       ]
     },
     {
@@ -36,11 +36,11 @@ var hotels  = [
       "price": 1445.5,
       "image": "../assets/images/hotels/981018_26_b.jpg",
       "amenities": [
-        "business-center",
-        "nightclub",
-        "deep-soaking-bathtub",
-        "fitness-center",
-        "garden"
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/fitness-center.svg",
+        "../assets/icons/amenities/garden.svg"
       ]
     },
     {
@@ -50,11 +50,11 @@ var hotels  = [
       "price": 1513.45,
       "image": "../assets/images/hotels/1191401_110_b.jpg",
       "amenities": [
-        "safety-box",
-        "bathrobes",
-        "business-center",
-        "beach-pool-facilities",
-        "restaurant"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/bathrobes.svg",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/restaurant.svg"
       ]
     },
     {
@@ -65,8 +65,8 @@ var hotels  = [
       "image": "../assets/images/hotels/2a5bb415_b.jpg",
       "amenities": [
         "coffe-maker",
-        "safety-box",
-        "restaurant",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/restaurant.svg",
         "garden",
         "children-club"
       ]
@@ -80,9 +80,9 @@ var hotels  = [
       "amenities": [
         "bathtub",
         "separate-bredroom",
-        "safety-box",
-        "business-center",
-        "beach-pool-facilities"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg"
       ]
     },
     {
@@ -92,9 +92,9 @@ var hotels  = [
       "price": 1862.16,
       "image": "../assets/images/hotels/480835_73_b.jpg",
       "amenities": [
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "separate-bredroom",
-        "business-center",
+        "../assets/icons/amenities/business-center.svg",
         "bathrobes",
         "beach"
       ]
@@ -106,11 +106,11 @@ var hotels  = [
       "price": 1634.03,
       "image": "../assets/images/hotels/11908954_150_b.jpg",
       "amenities": [
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "garden",
         "coffe-maker",
         "kitchen-facilities",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -120,8 +120,8 @@ var hotels  = [
       "price": 1061.79,
       "image": "../assets/images/hotels/12808943_13_b.jpg",
       "amenities": [
-        "beach-pool-facilities",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "bathtub",
         "children-club",
         "beach"
@@ -135,10 +135,10 @@ var hotels  = [
       "image": "../assets/images/hotels/4417477_17_b.jpg",
       "amenities": [
         "coffe-maker",
-        "deep-soaking-bathtub",
-        "business-center",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/business-center.svg",
         "bathrobes",
-        "safety-box"
+        "../assets/icons/amenities/safety-box.svg"
       ]
     },
     {
@@ -148,9 +148,9 @@ var hotels  = [
       "price": 1105.87,
       "image": "../assets/images/hotels/4626475_1_b.jpg",
       "amenities": [
-        "safety-box",
+        "../assets/icons/amenities/safety-box.svg",
         "coffe-maker",
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "separate-bredroom",
         "bathtub"
       ]
@@ -164,8 +164,8 @@ var hotels  = [
       "amenities": [
         "bathtub",
         "kitchen-facilities",
-        "nightclub",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "garden"
       ]
     },
@@ -176,9 +176,9 @@ var hotels  = [
       "price": 683.5,
       "image": "../assets/images/hotels/6900423_6_b.jpg",
       "amenities": [
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "coffe-maker",
-        "safety-box",
+        "../assets/icons/amenities/safety-box.svg",
         "kitchen-facilities",
         "bathtub"
       ]
@@ -191,10 +191,10 @@ var hotels  = [
       "image": "../assets/images/hotels/1231695_139_b.jpg",
       "amenities": [
         "bathtub",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "kitchen-facilities",
-        "fitness-center",
-        "nightclub"
+        "../assets/icons/amenities/fitness-center.svg",
+        "../assets/icons/amenities/nightclub.svg"
       ]
     },
     {
@@ -205,10 +205,10 @@ var hotels  = [
       "image": "../assets/images/hotels/2039609_120_b.jpg",
       "amenities": [
         "children-club",
-        "newspaper",
-        "restaurant",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/restaurant.svg",
         "separate-bredroom",
-        "nightclub"
+        "../assets/icons/amenities/nightclub.svg"
       ]
     },
     {
@@ -219,10 +219,10 @@ var hotels  = [
       "image": "../assets/images/hotels/1876197_31_b.jpg",
       "amenities": [
         "children-club",
-        "restaurant",
-        "fitness-center",
+        "../assets/icons/amenities/restaurant.svg",
+        "../assets/icons/amenities/fitness-center.svg",
         "bathrobes",
-        "safety-box"
+        "../assets/icons/amenities/safety-box.svg"
       ]
     },
     {
@@ -234,8 +234,8 @@ var hotels  = [
       "amenities": [
         "children-club",
         "garden",
-        "deep-soaking-bathtub",
-        "newspaper",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/newspaper.svg",
         "kitchen-facilities"
       ]
     },
@@ -247,9 +247,9 @@ var hotels  = [
       "image": "../assets/images/hotels/8962073_23_b.jpg",
       "amenities": [
         "kitchen-facilities",
-        "restaurant",
-        "nightclub",
-        "newspaper",
+        "../assets/icons/amenities/restaurant.svg",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/newspaper.svg",
         "coffe-maker"
       ]
     },
@@ -263,8 +263,8 @@ var hotels  = [
         "garden",
         "kitchen-facilities",
         "bathtub",
-        "safety-box",
-        "business-center"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/business-center.svg"
       ]
     },
     {
@@ -274,11 +274,11 @@ var hotels  = [
       "price": 1431.47,
       "image": "../assets/images/hotels/6153044_28_b.jpg",
       "amenities": [
-        "beach-pool-facilities",
-        "newspaper",
-        "nightclub",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/nightclub.svg",
         "bathrobes",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -288,11 +288,11 @@ var hotels  = [
       "price": 1943.69,
       "image": "../assets/images/hotels/4357289_55_b.jpg",
       "amenities": [
-        "newspaper",
-        "safety-box",
-        "business-center",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/business-center.svg",
         "coffe-maker",
-        "restaurant"
+        "../assets/icons/amenities/restaurant.svg"
       ]
     },
     {
@@ -302,10 +302,10 @@ var hotels  = [
       "price": 1258.4,
       "image": "../assets/images/hotels/10968139_27_b.jpg",
       "amenities": [
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "bathtub",
-        "fitness-center",
-        "restaurant",
+        "../assets/icons/amenities/fitness-center.svg",
+        "../assets/icons/amenities/restaurant.svg",
         "bathrobes"
       ]
     },
@@ -316,11 +316,11 @@ var hotels  = [
       "price": 2014.68,
       "image": "../assets/images/hotels/12287657_13_b.jpg",
       "amenities": [
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "beach",
-        "safety-box",
-        "deep-soaking-bathtub",
-        "business-center"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/business-center.svg"
       ]
     },
     {
@@ -330,8 +330,8 @@ var hotels  = [
       "price": 1183.19,
       "image": "../assets/images/hotels/3045476_5_b.jpg",
       "amenities": [
-        "safety-box",
-        "newspaper",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/newspaper.svg",
         "garden",
         "separate-bredroom",
         "children-club"
@@ -344,11 +344,11 @@ var hotels  = [
       "price": 2099.1,
       "image": "../assets/images/hotels/5429945_8_b.jpg",
       "amenities": [
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "beach",
         "children-club",
-        "nightclub",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -359,8 +359,8 @@ var hotels  = [
       "image": "../assets/images/hotels/3124310_1_b.jpg",
       "amenities": [
         "bathtub",
-        "restaurant",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/restaurant.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "bathrobes",
         "kitchen-facilities"
       ]
@@ -372,11 +372,11 @@ var hotels  = [
       "price": 1713.42,
       "image": "../assets/images/hotels/412713_46_b.jpg",
       "amenities": [
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "coffe-maker",
         "bathtub",
         "kitchen-facilities",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -389,8 +389,8 @@ var hotels  = [
         "coffe-maker",
         "garden",
         "kitchen-facilities",
-        "beach-pool-facilities",
-        "nightclub"
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/nightclub.svg"
       ]
     },
     {
@@ -404,7 +404,7 @@ var hotels  = [
         "kitchen-facilities",
         "bathtub",
         "garden",
-        "restaurant"
+        "../assets/icons/amenities/restaurant.svg"
       ]
     },
     {
@@ -414,11 +414,11 @@ var hotels  = [
       "price": 1193.14,
       "image": "../assets/images/hotels/7700456_3_b.jpg",
       "amenities": [
-        "business-center",
+        "../assets/icons/amenities/business-center.svg",
         "beach",
         "garden",
         "separate-bredroom",
-        "newspaper"
+        "../assets/icons/amenities/newspaper.svg"
       ]
     },
     {
@@ -429,10 +429,10 @@ var hotels  = [
       "image": "../assets/images/hotels/4618948_40_b.jpg",
       "amenities": [
         "beach",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "kitchen-facilities",
-        "beach-pool-facilities",
-        "newspaper"
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/newspaper.svg"
       ]
     },
     {
@@ -443,10 +443,10 @@ var hotels  = [
       "image": "../assets/images/hotels/3612838_12_b.jpg",
       "amenities": [
         "coffe-maker",
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "kitchen-facilities",
         "bathtub",
-        "nightclub"
+        "../assets/icons/amenities/nightclub.svg"
       ]
     },
     {
@@ -456,10 +456,10 @@ var hotels  = [
       "price": 1175.85,
       "image": "../assets/images/hotels/3688064_92_b.jpg",
       "amenities": [
-        "newspaper",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "coffe-maker",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "kitchen-facilities"
       ]
     },
@@ -470,11 +470,11 @@ var hotels  = [
       "price": 297.65,
       "image": "../assets/images/hotels/4982472_16_b.jpg",
       "amenities": [
-        "business-center",
-        "safety-box",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/safety-box.svg",
         "kitchen-facilities",
-        "restaurant",
-        "fitness-center"
+        "../assets/icons/amenities/restaurant.svg",
+        "../assets/icons/amenities/fitness-center.svg"
       ]
     },
     {
@@ -484,10 +484,10 @@ var hotels  = [
       "price": 1488.42,
       "image": "../assets/images/hotels/9ae3980d_b.jpg",
       "amenities": [
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "children-club",
-        "nightclub",
-        "safety-box",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/safety-box.svg",
         "beach"
       ]
     },
@@ -500,9 +500,9 @@ var hotels  = [
       "amenities": [
         "kitchen-facilities",
         "garden",
-        "nightclub",
-        "business-center",
-        "safety-box"
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/safety-box.svg"
       ]
     },
     {
@@ -512,8 +512,8 @@ var hotels  = [
       "price": 676.59,
       "image": "../assets/images/hotels/4846837_5_b.jpg",
       "amenities": [
-        "deep-soaking-bathtub",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "bathtub",
         "separate-bredroom",
         "kitchen-facilities"
@@ -526,11 +526,11 @@ var hotels  = [
       "price": 3109.07,
       "image": "../assets/images/hotels/115596_172_b.jpg",
       "amenities": [
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "garden",
-        "safety-box",
-        "newspaper",
-        "beach-pool-facilities"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg"
       ]
     },
     {
@@ -541,10 +541,10 @@ var hotels  = [
       "image": "../assets/images/hotels/519318_82_b.jpg",
       "amenities": [
         "bathrobes",
-        "beach-pool-facilities",
-        "business-center",
-        "newspaper",
-        "nightclub"
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/nightclub.svg"
       ]
     },
     {
@@ -557,7 +557,7 @@ var hotels  = [
         "kitchen-facilities",
         "bathtub",
         "beach",
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "children-club"
       ]
     },
@@ -568,11 +568,11 @@ var hotels  = [
       "price": 2099.3,
       "image": "../assets/images/hotels/484066_158_b.jpg",
       "amenities": [
-        "safety-box",
+        "../assets/icons/amenities/safety-box.svg",
         "garden",
-        "nightclub",
-        "beach-pool-facilities",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -582,11 +582,11 @@ var hotels  = [
       "price": 757.58,
       "image": "../assets/images/hotels/5987363_77_b.jpg",
       "amenities": [
-        "newspaper",
-        "business-center",
-        "nightclub",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/nightclub.svg",
         "children-club",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -599,8 +599,8 @@ var hotels  = [
         "children-club",
         "bathtub",
         "beach",
-        "business-center",
-        "beach-pool-facilities"
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg"
       ]
     },
     {
@@ -613,7 +613,7 @@ var hotels  = [
         "bathtub",
         "children-club",
         "beach",
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "kitchen-facilities"
       ]
     },
@@ -624,10 +624,10 @@ var hotels  = [
       "price": 301.86,
       "image": "../assets/images/hotels/5030807_9_b.jpg",
       "amenities": [
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "separate-bredroom",
-        "nightclub",
-        "restaurant",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/restaurant.svg",
         "garden"
       ]
     },
@@ -638,8 +638,8 @@ var hotels  = [
       "price": 280.8,
       "image": "../assets/images/hotels/4982482_7_b.jpg",
       "amenities": [
-        "safety-box",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "kitchen-facilities",
         "separate-bredroom",
         "bathrobes"
@@ -653,10 +653,10 @@ var hotels  = [
       "image": "../assets/images/hotels/2537805_1_b.jpg",
       "amenities": [
         "kitchen-facilities",
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "garden",
-        "nightclub",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -667,9 +667,9 @@ var hotels  = [
       "image": "../assets/images/hotels/4478078_39_b.jpg",
       "amenities": [
         "bathtub",
-        "fitness-center",
-        "restaurant",
-        "newspaper",
+        "../assets/icons/amenities/fitness-center.svg",
+        "../assets/icons/amenities/restaurant.svg",
+        "../assets/icons/amenities/newspaper.svg",
         "separate-bredroom"
       ]
     },
@@ -681,10 +681,10 @@ var hotels  = [
       "image": "../assets/images/hotels/386779_53_b.jpg",
       "amenities": [
         "garden",
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "bathrobes",
         "coffe-maker",
-        "business-center"
+        "../assets/icons/amenities/business-center.svg"
       ]
     },
     {
@@ -696,9 +696,9 @@ var hotels  = [
       "amenities": [
         "children-club",
         "separate-bredroom",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "bathtub",
-        "restaurant"
+        "../assets/icons/amenities/restaurant.svg"
       ]
     },
     {
@@ -708,11 +708,11 @@ var hotels  = [
       "price": 2927.68,
       "image": "../assets/images/hotels/1777231_85_b.jpg",
       "amenities": [
-        "deep-soaking-bathtub",
-        "fitness-center",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/fitness-center.svg",
         "separate-bredroom",
         "coffe-maker",
-        "restaurant"
+        "../assets/icons/amenities/restaurant.svg"
       ]
     },
     {
@@ -724,9 +724,9 @@ var hotels  = [
       "amenities": [
         "children-club",
         "bathtub",
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "separate-bredroom",
-        "newspaper"
+        "../assets/icons/amenities/newspaper.svg"
       ]
     },
     {
@@ -736,9 +736,9 @@ var hotels  = [
       "price": 614.25,
       "image": "../assets/images/hotels/4546549_9_b.jpg",
       "amenities": [
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "kitchen-facilities",
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "bathrobes",
         "separate-bredroom"
       ]
@@ -751,10 +751,10 @@ var hotels  = [
       "image": "../assets/images/hotels/9866569_13_b.jpg",
       "amenities": [
         "separate-bredroom",
-        "safety-box",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "kitchen-facilities",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -764,9 +764,9 @@ var hotels  = [
       "price": 1927.17,
       "image": "../assets/images/hotels/b3e281b1_b.jpg",
       "amenities": [
-        "nightclub",
-        "safety-box",
-        "business-center",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/business-center.svg",
         "bathtub",
         "coffe-maker"
       ]
@@ -780,9 +780,9 @@ var hotels  = [
       "amenities": [
         "kitchen-facilities",
         "coffe-maker",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "bathrobes",
-        "newspaper"
+        "../assets/icons/amenities/newspaper.svg"
       ]
     },
     {
@@ -795,7 +795,7 @@ var hotels  = [
         "bathtub",
         "kitchen-facilities",
         "beach",
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "coffe-maker"
       ]
     },
@@ -807,8 +807,8 @@ var hotels  = [
       "image": "../assets/images/hotels/4099852_34_b.jpg",
       "amenities": [
         "bathrobes",
-        "newspaper",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "garden",
         "kitchen-facilities"
       ]
@@ -821,10 +821,10 @@ var hotels  = [
       "image": "../assets/images/hotels/1110876_60_b.jpg",
       "amenities": [
         "bathrobes",
-        "deep-soaking-bathtub",
-        "safety-box",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/safety-box.svg",
         "separate-bredroom",
-        "fitness-center"
+        "../assets/icons/amenities/fitness-center.svg"
       ]
     },
     {
@@ -837,7 +837,7 @@ var hotels  = [
         "garden",
         "bathtub",
         "bathrobes",
-        "safety-box",
+        "../assets/icons/amenities/safety-box.svg",
         "separate-bredroom"
       ]
     },
@@ -848,11 +848,11 @@ var hotels  = [
       "price": 469.94,
       "image": "../assets/images/hotels/9866986_18_b.jpg",
       "amenities": [
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "garden",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "coffe-maker",
-        "nightclub"
+        "../assets/icons/amenities/nightclub.svg"
       ]
     },
     {
@@ -864,9 +864,9 @@ var hotels  = [
       "amenities": [
         "kitchen-facilities",
         "garden",
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "children-club",
-        "safety-box"
+        "../assets/icons/amenities/safety-box.svg"
       ]
     },
     {
@@ -876,10 +876,10 @@ var hotels  = [
       "price": 1218.06,
       "image": "../assets/images/hotels/85248126_b.jpg",
       "amenities": [
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "children-club",
         "separate-bredroom",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "bathrobes"
       ]
     },
@@ -892,9 +892,9 @@ var hotels  = [
       "amenities": [
         "children-club",
         "beach",
-        "nightclub",
-        "beach-pool-facilities",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -904,11 +904,11 @@ var hotels  = [
       "price": 2339.9,
       "image": "../assets/images/hotels/525844_90_b.jpg",
       "amenities": [
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "coffe-maker",
-        "business-center",
-        "nightclub",
-        "safety-box"
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/safety-box.svg"
       ]
     },
     {
@@ -932,11 +932,11 @@ var hotels  = [
       "price": 2071.2,
       "image": "../assets/images/hotels/430037_31_b.jpg",
       "amenities": [
-        "newspaper",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "beach",
         "garden",
-        "fitness-center"
+        "../assets/icons/amenities/fitness-center.svg"
       ]
     },
     {
@@ -948,9 +948,9 @@ var hotels  = [
       "amenities": [
         "kitchen-facilities",
         "bathrobes",
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "garden",
-        "newspaper"
+        "../assets/icons/amenities/newspaper.svg"
       ]
     },
     {
@@ -962,7 +962,7 @@ var hotels  = [
       "amenities": [
         "children-club",
         "separate-bredroom",
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "garden",
         "bathtub"
       ]
@@ -977,8 +977,8 @@ var hotels  = [
         "beach",
         "kitchen-facilities",
         "children-club",
-        "newspaper",
-        "beach-pool-facilities"
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg"
       ]
     },
     {
@@ -988,11 +988,11 @@ var hotels  = [
       "price": 1156.91,
       "image": "../assets/images/hotels/917bd6d1_b.jpg",
       "amenities": [
-        "safety-box",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "bathrobes",
         "bathtub",
-        "business-center"
+        "../assets/icons/amenities/business-center.svg"
       ]
     },
     {
@@ -1004,9 +1004,9 @@ var hotels  = [
       "amenities": [
         "beach",
         "kitchen-facilities",
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "separate-bredroom",
-        "nightclub"
+        "../assets/icons/amenities/nightclub.svg"
       ]
     },
     {
@@ -1016,11 +1016,11 @@ var hotels  = [
       "price": 1761.4,
       "image": "../assets/images/hotels/1580314_67_b.jpg",
       "amenities": [
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "children-club",
-        "newspaper",
-        "deep-soaking-bathtub",
-        "business-center"
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/business-center.svg"
       ]
     },
     {
@@ -1030,11 +1030,11 @@ var hotels  = [
       "price": 1715.28,
       "image": "../assets/images/hotels/5379215_11_b.jpg",
       "amenities": [
-        "fitness-center",
-        "nightclub",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/fitness-center.svg",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "garden",
-        "business-center"
+        "../assets/icons/amenities/business-center.svg"
       ]
     },
     {
@@ -1044,11 +1044,11 @@ var hotels  = [
       "price": 1088.1,
       "image": "../assets/images/hotels/9649999_27_b.jpg",
       "amenities": [
-        "fitness-center",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/fitness-center.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "garden",
         "separate-bredroom",
-        "safety-box"
+        "../assets/icons/amenities/safety-box.svg"
       ]
     },
     {
@@ -1058,10 +1058,10 @@ var hotels  = [
       "price": 1889.37,
       "image": "../assets/images/hotels/48784_97_b.jpg",
       "amenities": [
-        "deep-soaking-bathtub",
-        "fitness-center",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
+        "../assets/icons/amenities/fitness-center.svg",
         "kitchen-facilities",
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "children-club"
       ]
     },
@@ -1072,11 +1072,11 @@ var hotels  = [
       "price": 1594.88,
       "image": "../assets/images/hotels/11820110_10_b.jpg",
       "amenities": [
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "coffe-maker",
         "kitchen-facilities",
-        "newspaper",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -1086,8 +1086,8 @@ var hotels  = [
       "price": 3141.14,
       "image": "../assets/images/hotels/583479_86_b.jpg",
       "amenities": [
-        "safety-box",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "coffe-maker",
         "bathrobes",
         "garden"
@@ -1103,8 +1103,8 @@ var hotels  = [
         "coffe-maker",
         "beach",
         "garden",
-        "safety-box",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -1115,7 +1115,7 @@ var hotels  = [
       "image": "../assets/images/hotels/1354077_84_b.jpg",
       "amenities": [
         "garden",
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "bathrobes",
         "bathtub",
         "separate-bredroom"
@@ -1128,11 +1128,11 @@ var hotels  = [
       "price": 1057.15,
       "image": "../assets/images/hotels/12627687_102_b.jpg",
       "amenities": [
-        "newspaper",
-        "restaurant",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/restaurant.svg",
         "garden",
-        "business-center",
-        "safety-box"
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/safety-box.svg"
       ]
     },
     {
@@ -1142,11 +1142,11 @@ var hotels  = [
       "price": 1822.71,
       "image": "../assets/images/hotels/897079_215_b.jpg",
       "amenities": [
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "bathtub",
         "children-club",
         "bathrobes",
-        "safety-box"
+        "../assets/icons/amenities/safety-box.svg"
       ]
     },
     {
@@ -1157,9 +1157,9 @@ var hotels  = [
       "image": "../assets/images/hotels/1773941_61_b.jpg",
       "amenities": [
         "kitchen-facilities",
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "beach",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "children-club"
       ]
     },
@@ -1171,10 +1171,10 @@ var hotels  = [
       "image": "../assets/images/hotels/1876458_102_b.jpg",
       "amenities": [
         "separate-bredroom",
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "beach",
-        "fitness-center",
-        "beach-pool-facilities"
+        "../assets/icons/amenities/fitness-center.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg"
       ]
     },
     {
@@ -1184,10 +1184,10 @@ var hotels  = [
       "price": 1722.41,
       "image": "../assets/images/hotels/63569_150_b.jpg",
       "amenities": [
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "garden",
         "beach",
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "separate-bredroom"
       ]
     },
@@ -1199,8 +1199,8 @@ var hotels  = [
       "image": "../assets/images/hotels/00650d24_b.jpg",
       "amenities": [
         "children-club",
-        "beach-pool-facilities",
-        "restaurant",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/restaurant.svg",
         "garden",
         "coffe-maker"
       ]
@@ -1212,11 +1212,11 @@ var hotels  = [
       "price": 796.13,
       "image": "../assets/images/hotels/4241228_30_b.jpg",
       "amenities": [
-        "restaurant",
-        "fitness-center",
+        "../assets/icons/amenities/restaurant.svg",
+        "../assets/icons/amenities/fitness-center.svg",
         "kitchen-facilities",
         "beach",
-        "business-center"
+        "../assets/icons/amenities/business-center.svg"
       ]
     },
     {
@@ -1227,9 +1227,9 @@ var hotels  = [
       "image": "../assets/images/hotels/81959_63_b.jpg",
       "amenities": [
         "separate-bredroom",
-        "nightclub",
+        "../assets/icons/amenities/nightclub.svg",
         "coffe-maker",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "garden"
       ]
     },
@@ -1240,10 +1240,10 @@ var hotels  = [
       "price": 3268.52,
       "image": "../assets/images/hotels/4359018_144_b.jpg",
       "amenities": [
-        "safety-box",
+        "../assets/icons/amenities/safety-box.svg",
         "kitchen-facilities",
         "bathrobes",
-        "fitness-center",
+        "../assets/icons/amenities/fitness-center.svg",
         "coffe-maker"
       ]
     },
@@ -1255,8 +1255,8 @@ var hotels  = [
       "image": "../assets/images/hotels/4d72efed_b.jpg",
       "amenities": [
         "separate-bredroom",
-        "business-center",
-        "safety-box",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/safety-box.svg",
         "children-club",
         "bathrobes"
       ]
@@ -1272,7 +1272,7 @@ var hotels  = [
         "separate-bredroom",
         "garden",
         "children-club",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -1282,8 +1282,8 @@ var hotels  = [
       "price": 1512.97,
       "image": "../assets/images/hotels/5405282_15_b.jpg",
       "amenities": [
-        "newspaper",
-        "business-center",
+        "../assets/icons/amenities/newspaper.svg",
+        "../assets/icons/amenities/business-center.svg",
         "children-club",
         "beach",
         "coffe-maker"
@@ -1297,10 +1297,10 @@ var hotels  = [
       "image": "../assets/images/hotels/164283a_hb_a_001.jpg",
       "amenities": [
         "garden",
-        "business-center",
+        "../assets/icons/amenities/business-center.svg",
         "bathrobes",
-        "safety-box",
-        "beach-pool-facilities"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg"
       ]
     },
     {
@@ -1311,9 +1311,9 @@ var hotels  = [
       "image": "../assets/images/hotels/9291429_9_b.jpg",
       "amenities": [
         "coffe-maker",
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "bathtub",
-        "beach-pool-facilities",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
         "separate-bredroom"
       ]
     },
@@ -1324,10 +1324,10 @@ var hotels  = [
       "price": 1647.73,
       "image": "../assets/images/hotels/1574025_73_b.jpg",
       "amenities": [
-        "beach-pool-facilities",
-        "newspaper",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/newspaper.svg",
         "separate-bredroom",
-        "safety-box",
+        "../assets/icons/amenities/safety-box.svg",
         "garden"
       ]
     },
@@ -1338,10 +1338,10 @@ var hotels  = [
       "price": 1128,
       "image": "../assets/images/hotels/6975518_43_b.jpg",
       "amenities": [
-        "nightclub",
-        "business-center",
-        "safety-box",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/nightclub.svg",
+        "../assets/icons/amenities/business-center.svg",
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "garden"
       ]
     },
@@ -1353,9 +1353,9 @@ var hotels  = [
       "image": "../assets/images/hotels/44e00399_b.jpg",
       "amenities": [
         "garden",
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "beach",
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "bathtub"
       ]
     },
@@ -1366,11 +1366,11 @@ var hotels  = [
       "price": 801.45,
       "image": "../assets/images/hotels/893882_7_b.jpg",
       "amenities": [
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "coffe-maker",
-        "safety-box",
-        "beach-pool-facilities",
-        "nightclub"
+        "../assets/icons/amenities/safety-box.svg",
+        "../assets/icons/amenities/beach-pool-facilities.svg",
+        "../assets/icons/amenities/nightclub.svg"
       ]
     },
     {
@@ -1381,10 +1381,10 @@ var hotels  = [
       "image": "../assets/images/hotels/23645_15_b.jpg",
       "amenities": [
         "garden",
-        "restaurant",
+        "../assets/icons/amenities/restaurant.svg",
         "children-club",
         "separate-bredroom",
-        "deep-soaking-bathtub"
+        "../assets/icons/amenities/deep-soaking-bathtub.svg"
       ]
     },
     {
@@ -1394,9 +1394,9 @@ var hotels  = [
       "price": 774.53,
       "image": "../assets/images/hotels/802720_60_b.jpg",
       "amenities": [
-        "deep-soaking-bathtub",
+        "../assets/icons/amenities/deep-soaking-bathtub.svg",
         "coffe-maker",
-        "newspaper",
+        "../assets/icons/amenities/newspaper.svg",
         "beach",
         "children-club"
       ]
