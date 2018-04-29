@@ -14,11 +14,31 @@
                                     srvHotel){
 
     $scope.hotelList = [];
+    $scope.showFilter = false;
+    $scope.showStar = false;
 
     /* Load file */
     angular.element(document).ready(function(){
       $scope.loadHotelList(); 
-    });    
+    });
+
+    /* Show filter */
+    $scope.showAndHideFilter = function(showFilter){
+      if($scope.showFilter == true){
+        $scope.showFilter = false;
+      }else if($scope.showFilter == false){
+        $scope.showFilter = true;
+      }
+    };
+
+    /* Show stars */
+    $scope.showStars = function(showStar){
+      if($scope.showStar == true){
+        $scope.showStar = false;
+      }else if($scope.showStar == false){
+        $scope.showStar = true;
+      }
+    };    
 
     /* Load message list using mocks */
     $scope.loadHotelList = function(){

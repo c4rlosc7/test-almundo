@@ -32,3 +32,9 @@ install bootstrap with npm
 
 
 # Backend
+> mkdir api
+> cd api
+> npm init --yes
+> npm i express --save
+> npm i body-parser --save
+> npm i morgan
