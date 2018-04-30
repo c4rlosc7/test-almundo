@@ -8,58 +8,74 @@
     var app = angular.module('app', ['hotel-service']);  
   
   
-    /* Init Controller */  
-    app.controller('Ctrl', function($scope,
-                                    $http,
-                                    srvHotel){
+  /* Init Controller */  
+  app.controller('Ctrl', function($scope,
+                                  $http,
+                                  srvHotel){
 
-    $scope.hotelList = [];
-    $scope.showFilter = false;
-    $scope.showStar = false;
+  $scope.hotelList = [];
+  $scope.showFilter = false;
+  $scope.showStar = false;
 
-    /* Load file */
-    angular.element(document).ready(function(){
-      $scope.loadHotelList(); 
-    });
+  /* Load file */
+  angular.element(document).ready(function(){
+    $scope.loadHotelList(); 
+  });
 
-    /* Show filter */
-    $scope.showAndHideFilter = function(showFilter){
-      if($scope.showFilter == true){
-        $scope.showFilter = false;
-      }else if($scope.showFilter == false){
-        $scope.showFilter = true;
-      }
-    };
+  /* Show filter hotels */
+  $scope.showAndHideFilter = function(showFilter){
+    if($scope.showFilter == true){
+      $scope.showFilter = false;
+    }else if($scope.showFilter == false){
+      $scope.showFilter = true;
+    }
+  };
 
-    /* Show stars */
-    $scope.showStars = function(showStar){
-      if($scope.showStar == true){
-        $scope.showStar = false;
-      }else if($scope.showStar == false){
-        $scope.showStar = true;
-      }
-    };    
+  /* Show select stars */
+  $scope.showStars = function(showStar){
+    if($scope.showStar == true){
+      $scope.showStar = false;
+    }else if($scope.showStar == false){
+      $scope.showStar = true;
+    }
+  };    
 
-    /* Load message list using mocks */
-    $scope.loadHotelList = function(){
-      try{
-        srvHotel.getHotelList().then(function(result){ 
-            if (result.data.successful) {
-                if (result.data.payload) {
-                    $scope.hotelList = result.data.payload;
-                    console.log($scope.hotelList);
-                    
-                };
-            };
-        }, function(error){
-            debugFactory.error(error);
-        });
-      }
-      catch(error){
-        console.log(error);
-      }
-    };                                      
-  
-    });
-  })(); 
+  /* Load hotel list */
+  $scope.loadHotelList = function(){
+    try{
+      srvHotel.getHotelList().then(function(result){ 
+          if (result.data.hotels) {
+            $scope.hotelList = result.data.hotels;
+          };
+      }, function(error){
+          console.log(error);
+      });
+    }
+    catch(error){
+      console.log(error);
+    }
+  };                                        
+
+  /* Filters 
+  $scope.filterHotel = function(model){
+    console.log(model.name)
+    var countFilters = 1;
+    var validateFilter = 0;
+
+    if(!$scope.searchHotel){
+        validateFilter++;
+    }else{
+        if(model.name.contains($scope.searchHotel)){
+            validateFilter++;
+        }
+    }
+
+    if(countFilters == validateFilter){
+        return true;
+    }
+  };
+  */
+
+  });
+})(); 
   

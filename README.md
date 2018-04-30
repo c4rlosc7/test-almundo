@@ -4,6 +4,7 @@ test almundo
 # Frontend AngularJS
 create to folder "frontend-angularjs"
 > mkdir frontend-angularjs
+
 > cd frontend-angularjs
 
 into folder typing next command
@@ -15,21 +16,11 @@ install angular js
 install bootstrap 3.7
 > npm install --save bootstrap@3
 
-# Frontend Angular 5
-update npm
-> npm install -g npm
+instalar server
+> npm install server -g --save
 
-version npm 6.0.0
-
-
-install angular CLI and create project
-> npm install -g angular-cli
-> ng new almundo
-> cd almundo
-> ng serve
-
-install bootstrap with npm
-> npm install --save bootstrap@3
+run 
+> serve
 
 
 # Backend

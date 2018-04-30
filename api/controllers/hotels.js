@@ -1,4 +1,4 @@
-const {hotels} = require('../data/data.json');
+const {hotels} = require('../data/hotelData');
 
 module.exports = {
     getHotels: (req, res) => {

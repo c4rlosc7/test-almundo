@@ -7,9 +7,11 @@
     /* Get to message list */
   	this.getHotelList = function(){
       try{
-        if(USE_MOCKS_DATASOURCE){
+        if(!USE_MOCKS_DATASOURCE){
           return utilMockFactory.objectToPromise(hotels);
-        } 
+        }else{
+          return $http.get('http://localhost:3000/hotels');
+        }
       } 
       catch(err){
         console.log(err);
