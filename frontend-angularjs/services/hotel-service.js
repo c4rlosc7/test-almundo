@@ -1,10 +1,10 @@
 (function(){  
   var app = angular.module('hotel-service', ['mocks.util']);        
   
-  /* Init service to message */
+  /* Init service to hotels */
   app.service('srvHotel', function($http,utilMockFactory){
 
-    /* Get to message list */
+    /* Get to hotels list */
   	this.getHotelList = function(){
       try{
         if(!USE_MOCKS_DATASOURCE){

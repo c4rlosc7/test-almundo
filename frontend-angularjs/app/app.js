@@ -54,27 +54,7 @@
     catch(error){
       console.log(error);
     }
-  };                                        
-
-  /* Filters 
-  $scope.filterHotel = function(model){
-    console.log(model.name)
-    var countFilters = 1;
-    var validateFilter = 0;
-
-    if(!$scope.searchHotel){
-        validateFilter++;
-    }else{
-        if(model.name.contains($scope.searchHotel)){
-            validateFilter++;
-        }
-    }
-
-    if(countFilters == validateFilter){
-        return true;
-    }
   };
-  */
 
   });
 })(); 
